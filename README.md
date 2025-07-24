@@ -3,7 +3,7 @@
 A **responsive and interactive Spotify Clone** built using **HTML, CSS, and JavaScript**. 
 This project replicates the user interface and basic functionality of the Spotify web player, offering a hands-on experience with frontend web development.
 
-## 📖 Project Description
+# 📖 Project Description
 
 The Spotify Clone is a frontend web development project that replicates the core design and functionality of the Spotify Web Player using HTML, CSS, and JavaScript. It serves as a practice project to enhance skills in responsive design, user interface development, and DOM manipulation using vanilla JavaScript.
 
@@ -36,7 +36,7 @@ Enjoy a smooth and responsive layout across devices.
 - **CSS3** – Styling with Flexbox and media queries
 - **JavaScript** – DOM manipulation and interactivity
 
-## 📸 Screenshots
+# 📸 Screenshots
 
   <img width="1628" height="878" alt="Spotify home page" src="https://github.com/user-attachments/assets/e13e6816-86d2-4d09-bf1b-fc77e668aee1" />
 
